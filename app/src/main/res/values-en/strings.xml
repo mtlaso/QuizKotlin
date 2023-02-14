@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_start_text">Enter username</string>
+    <string name="username_hint">Username</string>
+    <string name="new_username_hint">New username</string>
+    <string name="default_username">Username !</string>
+    <string name="btn_start_quiz">Start</string>
+    <string name="btn_confirm_question">Confirm</string>
+    <string name="btn_next_question">Continue</string>
+    <string name="btn_playagain">Replay</string>
+    <string name="btn_share">Share</string>
+    <string name="congrats_text">Congrats %1$s</string>
+    <string name="score_text">Your score : %1$s</string>
+    <string name="share_text">My Quiz score is %d !</string>
+    <string name="share_title_text">Share your score</string>
+    <string name="settings_text">Settings</string>
+    <string name="no_answer_selected">You need to select an answer !</string>
+    <string name="no_username_provided">You need to select an username !</string>
+    <plurals name="score2_text">
+        <item quantity="one">You got %d good answer</item>
+        <item quantity="other">You got %d good answers</item>
+    </plurals>
+</resources>

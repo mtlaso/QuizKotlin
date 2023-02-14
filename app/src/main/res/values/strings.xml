@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">Quizzu</string>
+    <string name="app_start_text">Entrez votre nom d\'utilisateur pour commencer le quiz</string>
+    <string name="username_hint">Nom d\'utilisateur</string>
+    <string name="new_username_hint">Nouveau nom d\'utilisateur</string>
+    <string name="default_username">Utilisateur !</string>
+    <string name="btn_start_quiz">Commencer</string>
+    <string name="btn_confirm_question">Confirmer</string>
+    <string name="btn_next_question">Continuer</string>
+    <string name="btn_playagain">Rejouer</string>
+    <string name="btn_share">Partager</string>
+    <string name="congrats_text">Félicitations %1$s</string>
+    <string name="score_text">Votre score : %1$s</string>
+    <plurals name="score2_text">
+        <item quantity="one">Vous avez eu %d bonne question</item>
+        <item quantity="other">Vous avez eu %d bonnes questions</item>
+    </plurals>
+    <string name="share_text">Mon score au quiz est de %d !</string>
+    <string name="share_title_text">Partagez votre score</string>
+    <string name="settings_text">Paramètres</string>
+    <string name="no_answer_selected">Vous devez séléctionner une solution !</string>
+
+
+    <string name="placeholder_text" translatable="false">placeholder</string>
+
+    <!--  Erreurs/alertes -->
+    <string name="no_username_provided">Vous devez entrer un nom d\'utilisateur !</string>
+
+    <!-- Shared preferences-->
+    <string name="SHARED_PREF_PATH" translatable="false">com.example.myapp.SHAREDPREFPATH</string>
+    <string name="shared_pref_USERNAME" translatable="false">username</string>
+    <string name="shared_pref_SCORE" translatable="false">score</string>
+    <string name="shared_pref_TOTALQUESTIONS" translatable="false">totalquestions</string>
+
+
+    <string name="title_activity_quiz" translatable="false">QuizActivity</string>
+</resources>
